@@ -1,29 +1,13 @@
 {
-  "name": "Oak Paradise #1025",
-  "symbol": "OAK",
-  "description": "It is always darkest before the dawn.",
+  "name": "y00ts: mint t00b #1064",
+  "symbol": "t00b",
+  "description": "Use this t00b to mint one y00t.",
   "seller_fee_basis_points": 200,
-  "image": "https://arweave.net/QyziOd7XaXnx5omMczJUzevCTr709tvpaOVJNoYodTs",
+  "image": "https://ipfs.io/ipfs/QmZSJvWJcHRfeDpN4vfDMhn1724GsNUS8tgdCsNAWLuUfJ?ext=jpg",
   "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Space"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Magic"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Brick"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "Defender Armor"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "King of the Oaks"
+   {
+      "trait_type": "t00b",
+      "value": "y00t"
     }
   ],
   "properties": {
