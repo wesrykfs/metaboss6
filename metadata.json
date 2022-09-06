@@ -1,0 +1,44 @@
+{
+  "name": "Oak Paradise #1025",
+  "symbol": "OAK",
+  "description": "It is always darkest before the dawn.",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/QyziOd7XaXnx5omMczJUzevCTr709tvpaOVJNoYodTs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Defender Armor"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "King of the Oaks"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
